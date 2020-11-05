@@ -1,0 +1,8 @@
+Name: Perfect Money Gateway;
+Parent Addon: user-balance;
+Version: 1.1.3;
+Support Core: 16.17.0;
+ItemID: 12569;
+Description: Подключение сайта к платежному агрегатору Perfect Money https://perfectmoney.is;
+Author: Плечев Андрей;
+Author URI: http://codeseller.ru/;
